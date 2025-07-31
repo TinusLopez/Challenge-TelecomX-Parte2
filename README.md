@@ -73,7 +73,7 @@ El proyecto está contenido en el archivo `telecomx_parte2.ipynb`, el cual se or
 
 ## 👤 Autor
 
-Proyecto desarrollado por **Florentino López** como parte de la Especialización en Ciencia de Datos.
+Proyecto desarrollado por **Florentino López** como parte de la **Especialización en Ciencia de Datos** de **Oracle Next Education - G8**.
 
 ---
 
